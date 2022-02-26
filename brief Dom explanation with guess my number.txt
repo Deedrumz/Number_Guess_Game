@@ -1,0 +1,34 @@
+// let new_msg = document.querySelector('.message')
+
+// // new_msg.textContent = 'na Ty tok am'
+
+// // new_msg.style.color = 'red'
+
+// let question = document.querySelector('.number')
+
+// question.textContent = '!'
+
+// let Ade = document.querySelector('.score')
+// // console.log(Ade.textContent);
+
+// Ade.textContent = 100
+
+// let input = document.querySelector('.guess')
+
+// console.log(input, typeof input);
+
+// // console.log((document.querySelector('.guess').value = 20))
+
+// // Handling click event
+// let btn = document.querySelector('.check')
+
+// function check() {
+//   //  new_msg.textContent = 'type a number'
+//   if (input.value == '') {
+//     new_msg.textContent = 'type a number'
+//   }else{
+//       new_msg.textContent = 'you are koret'
+//   }
+// }
+
+// btn.addEventListener('click', check)
